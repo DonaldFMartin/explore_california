@@ -7,8 +7,8 @@ log/*.log.[0-9]
 assests/photoshop/
 assests/videos/
 !assests/videos/tour_*.mp4
-!beaches/*
-
+beaches/*
+*boardwalks/*.html
 
 # *beaches/
 
