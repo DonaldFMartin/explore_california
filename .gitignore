@@ -8,8 +8,9 @@ assests/photoshop/
 assests/videos/
 !assests/videos/tour_*.mp4
 beaches/*
-*boardwalks/*.html
+*boardwalks/venice-beach.html
 
-# *beaches/
+# *beaches/      
+## *boardwalks/*.html
 
 
